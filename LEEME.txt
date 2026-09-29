@@ -1,0 +1,11 @@
+CARPETA DE TEXTURAS DE McComicsUp
+=================================
+
+Esta carpeta viaja VACIA en el plugin a proposito.
+
+Las 551 texturas inteligentes (.mcup) pesan unos 85 MB y NO se meten en el
+RBZ: se descargan aparte desde la plataforma y se instalan aqui. Por eso la
+carpeta tiene que existir desde la instalacion, aunque este vacia: si no
+existe, la descarga de texturas no tiene donde dejarlas.
+
+No borres esta carpeta ni este archivo.
